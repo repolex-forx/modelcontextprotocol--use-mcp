@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/use-mcp/commit/40c02d2d982a4fd99d08b931801e10728993c79f",
       "git:hexsha": "40c02d2d982a4fd99d08b931801e10728993c79f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.21"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.21",
+      "repolex:parsedAt": "2026-10-09T07:06:13.461359+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/use-mcp/commit/40c75b19522411425f239aec8ea1d129074fcab3",
